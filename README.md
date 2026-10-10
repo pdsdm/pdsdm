@@ -21,7 +21,7 @@ Outside of work I like to build and ship products and AI agents.
 
 <img align="right" width="72" src="assets/otel.svg" alt="otel" />
 
-### [otel](https://github.com/pdsdm/otel)
+### [otel](https://www.tuotel.app/)
 
 <a href="https://tuotel.app"><img src="https://img.shields.io/badge/tuotel.app-007BFF?style=flat-square&logo=googlechrome&logoColor=white" alt="tuotel.app" /></a>
 <img src="https://img.shields.io/badge/status-in_development-F59E0B?style=flat-square" alt="In development" />
@@ -35,7 +35,7 @@ An agent that researches Booking prices stay by stay, so hotels can sell every r
 
 <img align="right" width="72" src="assets/feedo.png" alt="Feedo" />
 
-### [Feedo](https://github.com/pdsdm/feedo)
+### [Feedo](https://apps.apple.com/es/app/feedo/id6806554868)
 
 <a href="https://apps.apple.com/es/app/feedo/id6806554868"><img src="https://img.shields.io/badge/App_Store-live-000000?style=flat-square&logo=apple&logoColor=white" alt="Live on the App Store" /></a>
 <img src="https://img.shields.io/badge/launched_in-Madrid-1f2328?style=flat-square" alt="Launched in Madrid" />
