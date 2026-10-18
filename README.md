@@ -20,28 +20,28 @@ I build AI agents and the products around them. Based in Madrid.
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-data-dark.png">
-  <img src="assets/stack-data-light.png" width="760" alt="Data tools">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-data-dark.svg">
+  <img src="assets/stack-data-light.svg" width="760" alt="Data tools">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-backend-dark.png">
-  <img src="assets/stack-backend-light.png" width="760" alt="Backend tools">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-backend-dark.svg">
+  <img src="assets/stack-backend-light.svg" width="760" alt="Backend tools">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-frontend-dark.png">
-  <img src="assets/stack-frontend-light.png" width="760" alt="Frontend tools">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-frontend-dark.svg">
+  <img src="assets/stack-frontend-light.svg" width="760" alt="Frontend tools">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-cloud-dark.png">
-  <img src="assets/stack-cloud-light.png" width="760" alt="Cloud tools">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-cloud-dark.svg">
+  <img src="assets/stack-cloud-light.svg" width="760" alt="Cloud tools">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-ai-dark.png">
-  <img src="assets/stack-ai-light.png" width="760" alt="AI tools">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-ai-dark.svg">
+  <img src="assets/stack-ai-light.svg" width="760" alt="AI tools">
 </picture>
 
 <br>
@@ -60,7 +60,7 @@ I build AI agents and the products around them. Based in Madrid.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-links-dark.png">
-  <img src="assets/stack-links-light.png" width="760" alt="Ways to contact me">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-links-dark.svg">
+  <img src="assets/stack-links-light.svg" width="760" alt="Ways to contact me">
 </picture>
 
