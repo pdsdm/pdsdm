@@ -21,27 +21,39 @@ I build AI agents and the products around them. Based in Madrid.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-data-dark.svg">
-  <img src="assets/stack-data-light.svg" width="760" alt="Data tools">
+  <img src="assets/stack-data-light.svg" width="900" alt="Data tools">
 </picture>
+
 <br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-backend-dark.svg">
-  <img src="assets/stack-backend-light.svg" width="760" alt="Backend tools">
+  <img src="assets/stack-backend-light.svg" width="900" alt="Backend tools">
 </picture>
+
 <br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-frontend-dark.svg">
-  <img src="assets/stack-frontend-light.svg" width="760" alt="Frontend tools">
+  <img src="assets/stack-frontend-light.svg" width="900" alt="Frontend tools">
 </picture>
+
 <br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-cloud-dark.svg">
-  <img src="assets/stack-cloud-light.svg" width="760" alt="Cloud tools">
+  <img src="assets/stack-cloud-light.svg" width="900" alt="Cloud tools">
 </picture>
+
 <br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-ai-dark.svg">
-  <img src="assets/stack-ai-light.svg" width="760" alt="AI tools">
+  <img src="assets/stack-ai-light.svg" width="900" alt="AI tools">
 </picture>
 
 <br>
@@ -61,6 +73,6 @@ I build AI agents and the products around them. Based in Madrid.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-links-dark.svg">
-  <img src="assets/stack-links-light.svg" width="760" alt="Ways to contact me">
+  <img src="assets/stack-links-light.svg" width="900" alt="Ways to contact me">
 </picture>
 
