@@ -23,22 +23,22 @@ I build AI agents and the products around them. Based in Madrid.
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-data-dark.svg">
   <img src="assets/stack-data-light.svg" width="760" alt="Data tools">
 </picture>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-backend-dark.svg">
   <img src="assets/stack-backend-light.svg" width="760" alt="Backend tools">
 </picture>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-frontend-dark.svg">
   <img src="assets/stack-frontend-light.svg" width="760" alt="Frontend tools">
 </picture>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-cloud-dark.svg">
   <img src="assets/stack-cloud-light.svg" width="760" alt="Cloud tools">
 </picture>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-ai-dark.svg">
   <img src="assets/stack-ai-light.svg" width="760" alt="AI tools">
