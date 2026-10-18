@@ -1,63 +1,70 @@
-<div align="center">
-
 # Hi, I'm Pepe
 
-**I build AI agents and the products around them.**<br/>
-By day I work in data at ebury in Madrid. The rest of my time goes into building stuff.
+I build AI agents and the products around them. Based in Madrid.
 
-<img src="https://img.shields.io/badge/Madrid-Spain-1f2328?style=flat-square" alt="Madrid, Spain" />
+<br>
 
-</div>
+**Now** — Data at [Ebury](https://www.ebury.com), building models that help the business make better decisions. MSc in Big Data & Advanced Analytics at ICAI (Universidad Pontificia Comillas).
 
-<br/>
+<img src="assets/otel.svg" width="16" height="16" align="absmiddle"> &nbsp;**Building** — [otel](https://www.tuotel.app/), an agent that researches Booking prices stay by stay, so hotels can sell every room at the right price. Status: in development.
 
-## About me
+<img src="assets/feedo.png" width="16" height="16" align="absmiddle"> &nbsp;**Shipped** — [Feedo](https://apps.apple.com/es/app/feedo/id6806554868), a social map for restaurants: see where your friends ate and what they would order again. Live on the App Store.
 
-I work in the data team at **ebury**, a fintech that moves money across borders for businesses. Building models that help the business make better decisions. **MSc in Big Data & Advanced Analytics at ICAI** (Universidad Pontificia Comillas).
+**Hackathons** — [Zhivel](https://github.com/pdsdm/hackspain), an agent system for live event crises at HackSpain 2026 (HappyRobot track). [FactNews](https://github.com/pdsdm/FactNews), a news checker built on a council of LLMs and RAG at HackEurope 2026 in Dublin.
 
-Outside of work I like to build and ship products and AI agents.
+<br>
+<br>
 
-## What I'm building
+### Toolbox
 
-<img align="right" width="72" src="assets/otel.svg" alt="otel" />
+<sub>What I reach for day to day, from data work to shipping apps.</sub>
 
-### [otel](https://www.tuotel.app/)
+<br>
 
-<a href="https://tuotel.app"><img src="https://img.shields.io/badge/tuotel.app-007BFF?style=flat-square&logo=googlechrome&logoColor=white" alt="tuotel.app" /></a>
-<img src="https://img.shields.io/badge/status-in_development-F59E0B?style=flat-square" alt="In development" />
-<img src="https://img.shields.io/badge/agentic-price_seeker-1f2328?style=flat-square" alt="Agentic price seeker" />
+**Data and ML**
 
-An agent that researches Booking prices stay by stay, so hotels can sell every room at the right price. The research agent can browse, read reviews and compare listings to answer questions like *"why is the hotel next door cheaper this weekend?"*.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,sklearn,pytorch,postgres&theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,sklearn,pytorch,postgres&theme=light" alt="Python, pandas, scikit-learn, PyTorch, PostgreSQL">
+</picture>
 
-<sub>React · TypeScript · Supabase · Python · FastAPI · Playwright · Docker</sub>
+**Backend**
 
-<br clear="right"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi,supabase,docker&theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,supabase,docker&theme=light" alt="FastAPI, Supabase, Docker">
+</picture>
 
-<img align="right" width="72" src="assets/feedo.png" alt="Feedo" />
+**Web and apps**
 
-### [Feedo](https://apps.apple.com/es/app/feedo/id6806554868)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=ts,react,reactnative&theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,react,reactnative&theme=light" alt="TypeScript, React, React Native">
+</picture>
 
-<a href="https://apps.apple.com/es/app/feedo/id6806554868"><img src="https://img.shields.io/badge/App_Store-live-000000?style=flat-square&logo=apple&logoColor=white" alt="Live on the App Store" /></a>
-<img src="https://img.shields.io/badge/launched_in-Madrid-1f2328?style=flat-square" alt="Launched in Madrid" />
+**Cloud**
 
-A social map for restaurants: see where your friends ate and what they'd order again. Live on the App Store, launched in Madrid.
-- A map of the places your friends recommend, with filters by area, cuisine and who recommended it.
-- Your own lists, so the place someone sent you on WhatsApp never gets lost again.
-- A level system with weekly streaks and leaderboards, all computed in the database.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=gcp,docker&theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,docker&theme=light" alt="Google Cloud, Docker">
+</picture>
 
-<sub>Expo · React Native · TypeScript · Supabase · PostgreSQL</sub>
+**AI**
 
-<br clear="right"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=claude,mcp&theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,mcp&theme=light" alt="Claude, MCP">
+</picture>
 
-## Hackathons
+<br>
+<br>
 
-| Event | Project | What we built |
-|:--|:--|:--|
-| 🇪🇸 **HackSpain 2026**<br/><sub>HappyRobot track</sub> | **[Zhivel](https://github.com/pdsdm/hackspain)** | An agent system that handles a live event crisis: decides, calls, coordinates and replans, with a human approving the key decisions. |
-| 🇮🇪 **HackEurope 2026**<br/><sub>Dublin</sub> | **[FactNews](https://github.com/pdsdm/FactNews)** | Checks a news story across many outlets using a council of LLMs and RAG, with a link to the source for each claim. |
+### Say hi
 
-## Stack
+<sub>Happy to talk AI agents, data, hackathons or products.</sub>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,sklearn,pytorch,ts,react,reactnative,fastapi,postgres,supabase,docker,gcp&perline=12" alt="Python, pandas, scikit-learn, PyTorch, TypeScript, React, React Native, FastAPI, PostgreSQL, Supabase, Docker, GCP" />
-</p>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_%E2%86%97-1d1d1f?style=for-the-badge)](https://linkedin.com/in/pep-moyano-font)
+[![X](https://img.shields.io/badge/X_@pep__moyano_%E2%86%97-1d1d1f?style=for-the-badge)](https://x.com/pep_moyano)
+[![Email](https://img.shields.io/badge/pepmoyanofont@gmail.com-0066cc?style=for-the-badge)](mailto:pepmoyanofont@gmail.com)
